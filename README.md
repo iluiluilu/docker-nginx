@@ -1,0 +1,2 @@
+- Add another config file to conf folder
+- run: docker run -p 80:80 --volume=<Absolute path to conf folder>:/etc/nginx/conf.d -d <image name>
